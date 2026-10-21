@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Dmitry Kardashevsky
@@ -6,6 +5,25 @@
 **Software Engineer (Full-stack) · Systems & Business Analyst**
 
 Building software, intelligent systems and digital products.
+
+<br>
+
+<a href="https://t.me/kardashevsky">
+  <img src="./assets/telegram.svg" alt="Telegram" width="30" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kardashevsky/">
+  <img src="./assets/linkedin.svg" alt="LinkedIn" width="30" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:contact@kardashevsky.com">
+  <img src="./assets/email.svg" alt="Email" width="30" height="30">
+</a>
+
+<br>
+<br>
+
+[![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
 
 <br>
 
@@ -88,19 +106,5 @@ Business requirements · Process optimisation
 
 **Product Development**  
 Product strategy · Planning · Technical coordination
-
----
-
-### Contact
-
-[![Telegram](./assets/telegram.svg)](https://t.me/kardashevsky)
-&nbsp;
-[![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/kardashevsky/)
-
-<br>
-
-[![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
-
-[contact@kardashevsky.com](mailto:contact@kardashevsky.com)
 
 </div>
