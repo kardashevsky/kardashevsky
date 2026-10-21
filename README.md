@@ -4,7 +4,9 @@
 
 **Software Engineer (Full-stack) · Systems & Business Analyst**
 
-Building software, intelligent systems and digital products.
+I create web applications, intelligent systems and digital products, combining software engineering with systems and business analysis.
+
+My experience spans software architecture, AI/ML solutions, requirements engineering and business process optimisation.
 
 <br>
 
@@ -26,14 +28,6 @@ Building software, intelligent systems and digital products.
 [![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
 
 <br>
-
----
-
-### About
-
-I create web applications, intelligent systems and digital products, combining software engineering with systems and business analysis.
-
-My experience spans software architecture, AI/ML solutions, requirements engineering and business process optimisation.
 
 ---
 
