@@ -8,23 +8,29 @@ Building software, intelligent systems and digital products.
 
 <br>
 
-[Website](https://kardashevsky.com) &nbsp;·&nbsp;
-[Telegram](https://t.me/kardashevsky) &nbsp;·&nbsp;
-[Email](mailto:contact@kardashevsky.com)
+[![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kardashevsky)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kardashevsky/)
+[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kardashevsky.com)
+
+</div>
 
 <br>
 
 ---
 
-</div>
-
 ### About
 
-Full-stack Software Engineer and Systems & Business Analyst specialising in software engineering, artificial intelligence and digital product development.
+Full-stack Software Engineer and Systems & Business Analyst specialising in web development, artificial intelligence and digital products.
 
-My experience spans application architecture, AI/ML solutions, requirements engineering and business process optimisation.
+My experience spans software architecture, AI/ML solutions, requirements engineering and business process optimisation.
 
 <br>
+
+---
 
 ### Tech Stack
 
@@ -41,7 +47,7 @@ My experience spans application architecture, AI/ML solutions, requirements engi
 ![Sass (SCSS)](https://img.shields.io/badge/Sass_(SCSS)-181717?style=flat-square&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181717?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks, Libraries & Runtime**
 
 ![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-181717?style=flat-square&logo=redux&logoColor=white)
@@ -63,6 +69,8 @@ My experience spans application architecture, AI/ML solutions, requirements engi
 
 <br>
 
+---
+
 ### Artificial Intelligence & Machine Learning
 
 `Computer Vision` `Natural Language Processing` `Large Language Models`
@@ -71,6 +79,8 @@ My experience spans application architecture, AI/ML solutions, requirements engi
 
 <br>
 
+---
+
 ### Systems & Business Analysis
 
 `BPMN` `Requirements Engineering` `Business Process Modelling`
@@ -78,6 +88,8 @@ My experience spans application architecture, AI/ML solutions, requirements engi
 `System Design` `Functional Specifications` `Documentation`
 
 <br>
+
+---
 
 ### Areas of Expertise
 
