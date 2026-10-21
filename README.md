@@ -6,9 +6,7 @@
 
 **Software Engineer (Full-stack) · Systems & Business Analyst**
 
-I create digital products, combining software engineering with systems and business analysis.
-
-My work spans software architecture, full-stack development, AI/ML integration, requirements engineering and business process modelling — connecting business needs with technical solutions.
+I create digital products, combining software engineering with systems and business analysis. My expertise spans software architecture, full-stack development, AI/ML integration, requirements engineering and business process modelling.
 
 <br>
 
