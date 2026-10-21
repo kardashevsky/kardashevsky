@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/name.svg" alt="Dmitry Kardashevsky" height="48">
+# Dmitry Kardashevsky
 
 <br>
 
