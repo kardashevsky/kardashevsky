@@ -1,12 +1,9 @@
-
 <div align="center">
-
-### Dmitry Kardashevsky
-###### Software Engineer (Full-stack) · Systems & Business Analyst
+  <h3>Dmitry Kardashevsky</h3>
+  <h5>Software Engineer (Full-stack) · Systems & Business Analyst</h5>
+</div>
 
 ---
-
-<br>
 
 Hey there! Thanks for checking out my GitHub profile! My name is Dmitry Kardashevsky, and I'm passionate about technology, software engineering and creating digital products. My interests go beyond writing code. I enjoy exploring how software systems work, understanding business needs and finding ways to bring ideas to life through technology. Over time, this has led me to work across full-stack development, software architecture, systems analysis and business process modelling.
 
@@ -14,11 +11,11 @@ I'm also interested in artificial intelligence and machine learning, particularl
 
 In recent years, I co-founded [Black Boat Games](https://blackboatgames.com), a small independent game development studio where we bring our ideas to life through PC games. Together, we're working on creating original gaming experiences driven by our shared passion for games and technology.
 
-<br>
-
 ---
 
-### Tech Stack
+<div align="center">
+  <h3>Tech Stack</h3>
+</div>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=white)
@@ -42,27 +39,22 @@ In recent years, I co-founded [Black Boat Games](https://blackboatgames.com), a 
 ![Prettier](https://img.shields.io/badge/Prettier-181717?style=flat-square&logo=prettier&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-181717?style=flat-square&logo=figma&logoColor=white)
 
-<br>
-
 ---
 
-<br>
-
-<a href="https://t.me/kardashevsky">
-  <img src="./assets/telegram.svg" alt="Telegram" width="30" height="30">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kardashevsky/">
-  <img src="./assets/linkedin.svg" alt="LinkedIn" width="30" height="30">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:contact@kardashevsky.com">
-  <img src="./assets/email.svg" alt="Email" width="30" height="30">
-</a>
-
-<br>
-<br>
-
-[![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
-
+<div align="center">
+  <br>
+  <a href="https://t.me/kardashevsky">
+    <img src="./assets/telegram.svg" alt="Telegram" width="30" height="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kardashevsky/">
+    <img src="./assets/linkedin.svg" alt="LinkedIn" width="30" height="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@kardashevsky.com">
+    <img src="./assets/email.svg" alt="Email" width="30" height="30">
+  </a>
+  <br>
+  <br>
+  [![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
 </div>
