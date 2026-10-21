@@ -1,6 +1,8 @@
 <div align="center">
 
-# Dmitry Kardashevsky
+<img src="./assets/name.svg" alt="Dmitry Kardashevsky" height="48">
+
+<br>
 
 **Software Engineer (Full-stack) · Systems & Business Analyst**
 
@@ -81,24 +83,5 @@ My experience spans software architecture, AI/ML solutions, requirements enginee
 `BPMN` `Requirements Engineering` `Business Process Modelling`
 
 `System Design` `Functional Specifications` `Documentation`
-
----
-
-### Areas of Expertise
-
-**Software Development**  
-Application development · Software architecture
-
-**AI & Machine Learning**  
-Computer vision · NLP · LLM applications
-
-**Systems Analysis**  
-Requirements · System design · Process modelling
-
-**Business Analysis**  
-Business requirements · Process optimisation
-
-**Product Development**  
-Product strategy · Planning · Technical coordination
 
 </div>
