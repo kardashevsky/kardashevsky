@@ -8,8 +8,8 @@ Building software, intelligent systems and digital products.
 
 <br>
 
-[![Telegram](https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kardashevsky)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kardashevsky/)
+[![Telegram](./assets/telegram.svg)](https://t.me/kardashevsky)
+[![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/kardashevsky/)
 
 <br>
 
