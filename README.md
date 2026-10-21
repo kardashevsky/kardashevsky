@@ -8,15 +8,9 @@ Building software, intelligent systems and digital products.
 
 <br>
 
-<a href="https://t.me/kardashevsky" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/telegram.svg" alt="" height="20" align="center">
-  <strong>TELEGRAM</strong>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kardashevsky/" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/linkedin.svg" alt="" height="20" align="center">
-  <strong>LINKEDIN</strong>
-</a>
+[![Telegram](./assets/telegram.svg)](https://t.me/kardashevsky)
+&nbsp;
+[![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/kardashevsky/)
 
 <br>
 
@@ -104,9 +98,7 @@ Product strategy · Planning · Technical coordination
 
 ---
 
-<a href="https://kardashevsky.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kardashevsky.com">
-</a>
+[![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
 
 [contact@kardashevsky.com](mailto:contact@kardashevsky.com)
 
