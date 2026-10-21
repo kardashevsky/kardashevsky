@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Dmitry Kardashevsky
@@ -5,12 +6,6 @@
 **Software Engineer (Full-stack) · Systems & Business Analyst**
 
 Building software, intelligent systems and digital products.
-
-<br>
-
-[![Telegram](./assets/telegram.svg)](https://t.me/kardashevsky)
-&nbsp;
-[![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/kardashevsky/)
 
 <br>
 
@@ -94,9 +89,15 @@ Business requirements · Process optimisation
 **Product Development**  
 Product strategy · Planning · Technical coordination
 
-<br>
-
 ---
+
+### Contact
+
+[![Telegram](./assets/telegram.svg)](https://t.me/kardashevsky)
+&nbsp;
+[![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/kardashevsky/)
+
+<br>
 
 [![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
 
