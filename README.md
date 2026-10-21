@@ -8,15 +8,8 @@ Building software, intelligent systems and digital products.
 
 <br>
 
-[![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
-
-<br>
-
 [![Telegram](https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kardashevsky)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kardashevsky/)
-[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kardashevsky.com)
-
-</div>
 
 <br>
 
@@ -24,11 +17,9 @@ Building software, intelligent systems and digital products.
 
 ### About
 
-Full-stack Software Engineer and Systems & Business Analyst specialising in web development, artificial intelligence and digital products.
+I create web applications, intelligent systems and digital products, combining software engineering with systems and business analysis.
 
 My experience spans software architecture, AI/ML solutions, requirements engineering and business process optimisation.
-
-<br>
 
 ---
 
@@ -67,8 +58,6 @@ My experience spans software architecture, AI/ML solutions, requirements enginee
 ![Prettier](https://img.shields.io/badge/Prettier-181717?style=flat-square&logo=prettier&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-181717?style=flat-square&logo=figma&logoColor=white)
 
-<br>
-
 ---
 
 ### Artificial Intelligence & Machine Learning
@@ -76,8 +65,6 @@ My experience spans software architecture, AI/ML solutions, requirements enginee
 `Computer Vision` `Natural Language Processing` `Large Language Models`
 
 `Machine Learning` `AI Integration`
-
-<br>
 
 ---
 
@@ -87,16 +74,31 @@ My experience spans software architecture, AI/ML solutions, requirements enginee
 
 `System Design` `Functional Specifications` `Documentation`
 
-<br>
-
 ---
 
 ### Areas of Expertise
 
-| Discipline | Focus |
-| :--- | :--- |
-| **Software Development** | Application development, software architecture |
-| **AI & Machine Learning** | Computer vision, NLP, LLM applications |
-| **Systems Analysis** | Requirements, system design, process modelling |
-| **Business Analysis** | Business requirements, process optimisation |
-| **Product Development** | Product strategy, planning, technical coordination |
+**Software Development**  
+Application development · Software architecture
+
+**AI & Machine Learning**  
+Computer vision · NLP · LLM applications
+
+**Systems Analysis**  
+Requirements · System design · Process modelling
+
+**Business Analysis**  
+Business requirements · Process optimisation
+
+**Product Development**  
+Product strategy · Planning · Technical coordination
+
+<br>
+
+---
+
+[![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
+
+[contact@kardashevsky.com](mailto:contact@kardashevsky.com)
+
+</div>
