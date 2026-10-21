@@ -42,7 +42,6 @@ In recent years, I co-founded [Black Boat Games](https://blackboatgames.com), a 
 ---
 
 <div align="center">
-  <br>
   <a href="https://t.me/kardashevsky">
     <img src="./assets/telegram.svg" alt="Telegram" width="30" height="30">
   </a>
@@ -54,7 +53,12 @@ In recent years, I co-founded [Black Boat Games](https://blackboatgames.com), a 
   <a href="mailto:contact@kardashevsky.com">
     <img src="./assets/email.svg" alt="Email" width="30" height="30">
   </a>
-  <br>
-  <br>
-  [![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://kardashevsky.com" target="_blank">
+    <img src="https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kardashevsky.com">
+  </a>
 </div>
