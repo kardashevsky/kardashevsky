@@ -65,4 +65,5 @@ In recent years, I co-founded [Black Boat Games](https://blackboatgames.com), a 
 
 [![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
 
+<img src="./assets/animation.gif" alt="Animation" width="120">
 </div>
