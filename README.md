@@ -6,28 +6,9 @@
 
 **Software Engineer (Full-stack) · Systems & Business Analyst**
 
-I create web applications, intelligent systems and digital products, combining software engineering with systems and business analysis.
+I create digital products, combining software engineering with systems and business analysis.
 
-My experience spans software architecture, AI/ML solutions, requirements engineering and business process optimisation.
-
-<br>
-
-<a href="https://t.me/kardashevsky">
-  <img src="./assets/telegram.svg" alt="Telegram" width="30" height="30">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kardashevsky/">
-  <img src="./assets/linkedin.svg" alt="LinkedIn" width="30" height="30">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:contact@kardashevsky.com">
-  <img src="./assets/email.svg" alt="Email" width="30" height="30">
-</a>
-
-<br>
-<br>
-
-[![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
+My work spans software architecture, full-stack development, AI/ML integration, requirements engineering and business process modelling — connecting business needs with technical solutions.
 
 <br>
 
@@ -70,18 +51,23 @@ My experience spans software architecture, AI/ML solutions, requirements enginee
 
 ---
 
-### Artificial Intelligence & Machine Learning
+### Contact
 
-`Computer Vision` `Natural Language Processing` `Large Language Models`
+<a href="https://t.me/kardashevsky">
+  <img src="./assets/telegram.svg" alt="Telegram" width="30" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kardashevsky/">
+  <img src="./assets/linkedin.svg" alt="LinkedIn" width="30" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:contact@kardashevsky.com">
+  <img src="./assets/email.svg" alt="Email" width="30" height="30">
+</a>
 
-`Machine Learning` `AI Integration`
+<br>
+<br>
 
----
-
-### Systems & Business Analysis
-
-`BPMN` `Requirements Engineering` `Business Process Modelling`
-
-`System Design` `Functional Specifications` `Documentation`
+[![kardashevsky.com](https://img.shields.io/badge/kardashevsky.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kardashevsky.com)
 
 </div>
